@@ -3,3 +3,6 @@ C:\Users\Айрон\Documents\Visual Studio 2015\Projects\Figures\BufWordsReader
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\Figures\BufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.pdb
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\Figures\BufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.exe
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\Figures\BufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.pdb
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.exe.config
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.exe
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.pdb
