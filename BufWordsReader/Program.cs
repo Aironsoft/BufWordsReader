@@ -56,13 +56,33 @@ namespace BufWordsReader
 
             bufText = bufText.ToLower();
 
+            bufText = bufText.Replace('\n', ' ')
+                             .Replace('(', ' ')
+                             .Replace(')', ' ')
+                             .Replace('{', ' ')
+                             .Replace('}', ' ')
+                             .Replace('[', ' ')
+                             .Replace(']', ' ')
+                             .Replace('<', ' ')
+                             .Replace('>', ' ')
+                             .Replace('+', ' ')
+                             .Replace('-', ' ')
+                             .Replace('=', ' ')
+                             .Replace('/', ' ')
+                             .Replace('\\', ' ')
+                             .Replace('|', ' ')
+                             .Replace('.', ' ');
+
             for (int i=bufText.Length-1; i>=0; i--)
             {
                 char s = bufText[i];
-                if (s == '.' || s == ',' || s == ';' || s == ':' || s == '?' || s == '!')
+                if (s == ',' || s == ';' || s == ':' || s == '?' || s == '!' || s == '"' || s == '‘' || s == '\''
+                    || s == '≪' || s == '≫' || s == '«' || s == '»' || s == '”' || s == '…'
+                    || s == '–' || s == '—' || s == '*' || s == '“' || s == '„' || s == '%')
                 {
                     bufText = bufText.Remove(i, 1);
                 }
+
             }
 
             List<string> originWords = new List<string>();
