@@ -9,3 +9,8 @@ C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWord
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.exe
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.pdb
 C:\Users\Айрон\Documents\Visual Studio 2015\Projects\BufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.csprojResolveAssemblyReference.cache
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\TestBufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.exe.config
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\TestBufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.exe
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\TestBufWordsReader\BufWordsReader\obj\Debug\BufWordsReader.pdb
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\TestBufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.exe
+C:\Users\Айрон\Documents\Visual Studio 2015\Projects\TestBufWordsReader\BufWordsReader\bin\Debug\BufWordsReader.pdb
